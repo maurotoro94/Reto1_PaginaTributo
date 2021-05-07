@@ -1,0 +1,69 @@
+* {
+    background-color: rgb(240, 245, 166);
+    font-style: italic;
+}
+
+#image {
+    width: 50%;
+    height: auto;
+}
+
+#img-div {
+    text-align: center;
+}
+
+h2,h1{
+    text-align: center;
+}
+
+#tribute-info{
+
+    padding: 10px 50px 10px 50px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#contactenos{
+    text-align: center;
+}
+
+button{
+
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 16px;
+
+}
+
+#contenido{
+       text-align:center;
+}
+
+label{
+    text-align: left;
+    font-style: normal;
+}
+
+.boton1{
+    background-color: green; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+form{
+    margin-top: 50px;
+}
+
+input,textarea{
+    background-color: white;
+}
